@@ -22,8 +22,7 @@ Utilize only the most recent dataset; historical data retention is not included 
 Provide comprehensive documentation of the data model to facilitate understanding and collaboration between business stakeholders and the analytics team.
 
 ### License
-This project is licensed under the MIT License. You are free to use, modify and share this project with proper attribution.
-
+This project is licensed under the MIT License, granting you the freedom to use, modify, and share it, as long as proper credit is given.
 
 
 
