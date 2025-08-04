@@ -20,9 +20,17 @@ Consolidated both sources into a unified, analysis‑ready data model optimized 
 Utilize only the most recent dataset; historical data retention is not included in this project.
 ##### 5. Documentation:
 Provide comprehensive documentation of the data model to facilitate understanding and collaboration between business stakeholders and the analytics team.
+### BI: Analytics and Reporting
+Develop SQL-based analytics to deliver detailed insights into 
+ - Customer behaviour
+ - Product Performance
+ - Sales Trend
 
 ### License
 This project is licensed under the MIT License, granting you the freedom to use, modify, and share it, as long as proper credit is given.
+
+### About me 
+Hi there!  I’m Aysheshim Amsalu, an Industrial Engineering professional passionate about leveraging data analysis to solve real-world challenges. My work focuses on transforming raw data into actionable insights that drive smarter decisions
 
 
 
