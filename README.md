@@ -3,6 +3,7 @@ Welcome to the SQL Data Warehouse project repository
 
 This portfolio project showcases a complete SQL Server–based data warehousing solution designed to transform raw sales data into actionable insights. It highlights industry best practices in data engineering, including ETL development, data modelling, and analytics.
 
+
 ### Project Requirement
 #### Building the Data Warehouse
 ##### Objectives
@@ -26,10 +27,11 @@ Develop SQL-based analytics to deliver detailed insights into
  - Product Performance
  - Sales Trend
 
-### License
-This project is licensed under the MIT License, granting you the freedom to use, modify, and share it, as long as proper credit is given.
 
-### About me 
+#### License
+This project is licensed under the MIT License, which grants you the freedom to use, modify, and share it, provided that proper credit is given.
+
+#### About me 
 Hi there!  I’m Aysheshim Amsalu, an Industrial Engineering professional passionate about leveraging data analysis to solve real-world challenges. My work focuses on transforming raw data into actionable insights that drive smarter decisions
 
 
