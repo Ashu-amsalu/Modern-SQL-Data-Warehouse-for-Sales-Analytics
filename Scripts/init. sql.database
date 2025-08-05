@@ -17,6 +17,9 @@ GO
 ------Drop and recreate the 'DataWarehouse' database
 	IF EXISTS (SELECT 1 FROM SYS.databases where name = ' DataWarehouse')
 	BEGIN
+       ALTER the database DataWarehouse SET Single_User WITH ROLLBACK IMMEDIATE;
+       DROP database DataWarehouse
+        END
 	GO
 
 ----- CREATE the 'DataWarehouse' database
