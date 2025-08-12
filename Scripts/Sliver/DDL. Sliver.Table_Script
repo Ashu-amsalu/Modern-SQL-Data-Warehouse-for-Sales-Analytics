@@ -1,6 +1,12 @@
-
-
-
+/*
+==============================================================
+DDL Script: Create sliver table
+==============================================================
+Script Purpose:
+This Script creates a table in the sliver schema and drops the existing table if it already exists.
+Run this script to redefine the DDl structure of the sliver layer
+==============================================================
+*/
 
 -------------------------------------------------
 ---Inserting  bronze.crm_cust_info into sliver.crm_cust_info
