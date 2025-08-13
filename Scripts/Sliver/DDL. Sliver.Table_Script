@@ -4,7 +4,7 @@ DDL Script: Create sliver table
 ==============================================================
 Script Purpose:
 This Script creates a table in the sliver schema and drops the existing table if it already exists.
-Run this script to redefine the DDl structure of the sliver layer
+Run this script to redefine the DDL structure of the sliver layer
 ==============================================================
 */
 
@@ -136,7 +136,7 @@ CASE
 END AS GEN
 from bronze.erp_cust_az12
 -------------------------------------------------
----Insert bronze.erp_loc_a101 INTO  sliver.erp_loc_a101
+--- Insert bronze.erp_loc_a101 INTO  sliver.erp_loc_a101
 -------------------------------------------------
 TRUNCATE TABLE sliver.erp_loc_a101 
 INSERT INTO sliver.erp_loc_a101 (
